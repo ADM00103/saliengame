@@ -1,0 +1,35 @@
+http://youtube.forum.wtf/viewtopic.php?id=284
+
+RUS
+
+Saliens - новенькая и простенькая Flash игра от Steam. Благодаря компании Valve, теперь мы можем получать карточки и скидки на игры совершенно бесплатно, играя пару раз в день в эту игру. Суть Saliens очень проста - захватываем планеты путём отстреливания всяких инопланетян, после чего получаем разные бонусы и скидки. Но так как, выделять игре серьезное количество времени, чтобы получить плюшки, не хочется, мы поговорим об ином и быстром способе зарабатывания опыта в Saliens.
+
+На данный момент способов фармить опыт в Saliens множество, но самый легкий способ описан ниже:
+1) Присоединяемся в эту группу Steam https://steamcommunity.com/groups/SteamDB
+2) Разархивируем всё и запускаем .bat файл
+3) Далее заходим на steamcommunity и входим в свою уч. запись 
+4) Переходим сюда и ищем надпись token. Всё что после надписи в скобках - копируем ( "token":"всё что нужно копировать") https://steamcommunity.com/saliengame/gettoken
+5) Вставляем в программу либо изначально создаём в папке token.txt и вставляем туда
+6) Жмем "Enter" и видим как программа пошла фармить
+
+Чтобы использовать несколько аккаунтов в программе:
+1) Создаем в папке php ".bat файл"
+2) Клацаем по нем ПКМ, изменяем и прописываем там "start php c:\example\cheat.php token"
+3) Вместо "token" меняем на токен другого аккаунта и повторяем строчки с пункта 2 сколько угодно"
+
+ENG
+
+Saliens - a brand new and unpretentious Flash game from Steam. Thanks to the company Valve, now we can receive cards and discounts for games for free, playing a couple of times a day in this game. The essence of Saliens is very simple - we capture the planet by shooting all kinds of aliens, after which we get different bonuses and discounts. But since, to allocate the game a serious amount of time to get buns, do not want to, we'll talk about another and quick way to earn experience in Saliens.
+
+At the moment, there are many ways to farm experience in Saliens, but the easiest way is described below:
+1) Join this group Steam https://steamcommunity.com/groups/SteamDB
+2) Unzip everything and run the .bat file
+3) Then we go to the steamcommunity and enter our school. entry
+4) We pass here and look for the inscription token. All that after the inscription in parentheses - copy ("token": "everything you need to copy") https://steamcommunity.com/saliengame/gettoken
+5) We paste into the program, or we create it from the beginning in the folder token.txt and paste it there
+6) Click "Enter" and see how the program went to farm
+
+To use multiple accounts in the program:
+1) Create a ".bat file" in the php folder.
+2) Click on it PKM, change and register there "start php c: \ example \ cheat.php token"
+3) Instead of "token" we change the token of another account and repeat the lines from point 2 as much as necessary "
